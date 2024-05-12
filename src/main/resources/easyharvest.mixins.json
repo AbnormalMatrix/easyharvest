@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "com.easyharvest.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"EasyHarvestMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
